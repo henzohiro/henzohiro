@@ -1,5 +1,3 @@
-# 💀 HIRO | Cybersecurity Explorer
-
 <p align="center">
   <pre align="center">
  ___  ___  ___  ________  ________     
@@ -67,8 +65,8 @@ Participo ativamente de competições de segurança para testar minhas habilidad
 
 > "The world is an exploit waiting to be written."
 
-* **GitHub:** [Meu Perfil](https://github.com/SEU_USUARIO_AQUI)
-* **Discord:** `Hiro#0000`
+* **Discord:** `HenzoHiro`
+* **Instagram:** [Henzo_Hiro](https://www.instagram.com/henzo_hiro?igsh=cGRwYnFlNHFoNWxz)
 
 ---
 

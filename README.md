@@ -46,7 +46,7 @@ Participo ativamente de competições de segurança para testar minhas habilidad
 
 | Categoria            | Ferramentas                                  |
 |----------------------|----------------------------------------------|
-| **OS** | `Linux (Kali/Parrot)`, `Unix-based`          |
+| **OS** | `Linux (Kali/Parrot)`, `Windows 10/11`          |
 | **Security** | `Nmap`, `Burp Suite`, `Metasploit`, `Ffuf`    |
 | **Linguagens** | `Python`, `PHP basic's`, `JavaScript basic's`               |
 | **Target** | `Web Pentesting`, `Privilege Escalation`     |

@@ -66,8 +66,8 @@ Participo ativamente de competições de segurança para testar minhas habilidad
 > "The world is an exploit waiting to be written."
 
 * **Discord:** `HenzoHiro`
-* **Instagram:** [Henzo_Hiro](https://www.instagram.com/henzo_hiro?igsh=cGRwYnFlNHFoNWxz)
-
+* **Instagram:** `HenzoHiro` (https://www.instagram.com/henzo_hiro?igsh=cGRwYnFlNHFoNWxz)
+* **TryToHackMe:** `erenhiro64` (https://tryhackme.com/p/erenhiro64)
 ---
 
 <p align="center">
@@ -76,5 +76,5 @@ Participo ativamente de competições de segurança para testar minhas habilidad
 </p>
 
 <p align="center">
-  <sub>© 2026 // Hiro // DedSec Style</sub>
+  <sub>© 2026 // Hiro //</sub>
 </p>

@@ -53,14 +53,6 @@ Participo ativamente de competições de segurança para testar minhas habilidad
 
 ---
 
-### 📊 System Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=henzohiro&show_icons=true&theme=dracula&hide_border=true" alt="Hiro's Stats" />
-</p>
-
----
-
 ### 🌐 Connectivity
 
 > "The world is an exploit waiting to be written."
